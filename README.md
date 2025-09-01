@@ -1,4 +1,4 @@
-# SD surface defect detection
+# Surface Defect Detection
 
 NEU-Seg：https://github.com/DHW-Master/NEU_Seg
 
