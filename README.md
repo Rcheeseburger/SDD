@@ -1,4 +1,4 @@
-# Surface Defect Detection
+# FSMNet
 
 NEU-Seg：https://github.com/DHW-Master/NEU_Seg
 
